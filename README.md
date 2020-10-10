@@ -138,8 +138,6 @@ Now that I have a nice looking command line full of features its time to start i
 * brew cask install firefox-developer-edition
 * brew cask install visual-studio-code
 * brew cask install visual-studio-code-insiders
-* brew cask install intellij-idea
-* brew cask install eclipse-java
 * brew cask install postman
 * brew cask install docker
 * brew cask install spectacle
@@ -210,8 +208,6 @@ nvm install stable
 ```
 npm install -g tldr
 npm install -g typescript
-npm install -g @vue/cli
-npm install -g vuepress
 npm install -g @angular/cli
 npm install -g eslint
 npm install -g gitbook-cli
@@ -224,8 +220,8 @@ There is usually a default install of git but we used brew to install the latest
 
 .gitconfig
 
-* git config --global user.email "dan@techelevator.com"
-* git config --global user.name "Dan Vega"
+* git config --global user.email "hung@quaycreative.com"
+* git config --global user.name "Hung Bui"
 * Aliases
     * git config --global alias.add-commit '!git add -A && git commit'
 
@@ -306,6 +302,8 @@ alias mysqldown="stop_mysql"
 
 ### SDKMan
 
+I don't actually use this.. just keep it for a reference
+
 This is one of my favorite version managers because I use a lot of the Software Development Kits (SDKs) it manages. If you haven't heard of [SDKMan check them out here](https://sdkman.io/install). This is a list of SDKs I manage using SDKMan.
 
 * Java
@@ -347,7 +345,6 @@ Turn on sync and sign into chrome, this brings all of my bookmarks and extension
 * privacy badger 
 * oneTab
 * JSONViewer
-* Vue devtools
 
 ## System Preferences
 
@@ -412,7 +409,7 @@ At work I need to dual boot with macOS and Windows 10. We have a .NET track wher
 
 ## Contact Me
 
-If you have any questions about anything I am using or have suggestions for something I am missing please don't hesitate to reach out. You can find me on my website at http://www.therealdanvega.com or send me an email to danvega@gmail.com. 
+You can find author on his website at http://www.therealdanvega.com or send me an email to danvega@gmail.com. 
 
 
 
